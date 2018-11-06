@@ -1,2 +1,2 @@
 # WPI-zadanka
-Repozytorium rozwiązań zadań z programowania, wymaganych do zaliczenia potoku imperatywnego wstępu do programowania na MIMUW.
+Hejo, tu dzielimy się rozwiązaniami czy pomysłami na rozwiązanie zadanek WPI z lat ubiegłych. Na razie tylko kartkówki, ale pewnie potem weźmiemy się też za kolosy czy egzaminy ;))
